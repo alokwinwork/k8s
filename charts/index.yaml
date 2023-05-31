@@ -3,7 +3,7 @@ entries:
   ccsv:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T03:07:54.941711017-04:00"
+    created: "2023-05-31T06:39:20.765837396-04:00"
     description: A Helm chart for Kubernetes
     digest: e164a9c8ae1db91721e8622e4c3449b917bea74f7b10794a6662ca357e88bced
     name: ccsv
@@ -14,7 +14,7 @@ entries:
   convert-json:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T03:07:54.942231342-04:00"
+    created: "2023-05-31T06:39:20.766389465-04:00"
     description: A Helm chart for Kubernetes
     digest: 6cb63dbfe0f7b3f076348037ee3bb58575a3f9874af224d151fc70fa28c9fa65
     name: convert-json
@@ -25,7 +25,7 @@ entries:
   drop-duplicates:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T03:07:54.942785432-04:00"
+    created: "2023-05-31T06:39:20.767255855-04:00"
     description: A Helm chart for Kubernetes
     digest: e327118dcb9a91aceb852cf3fa825c04bb986292eef441c56d5445c063a5e7f1
     name: drop-duplicates
@@ -36,18 +36,29 @@ entries:
   main-service-v1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T03:07:54.943287556-04:00"
+    created: "2023-05-31T06:39:20.769300449-04:00"
     description: A Helm chart for Kubernetes
-    digest: 1bec4bb2c2b5597a9d8736f4b61b85f63d53c3c91c40e5964fefd3f1e08ed0ab
+    digest: 8908a107f39dfadba5eebd35dcbe6b864f5b924a15d932e5ede17bda17663341
     name: main-service-v1
     type: application
     urls:
     - main-service-v1-0.1.0.tgz
     version: 0.1.0
+  main-service-v2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-31T06:39:20.769696032-04:00"
+    description: A Helm chart for Kubernetes
+    digest: ac3dd6626639e2d3029aa591f5eca8122789f4c01e1d6968daa1b561fa6a95ed
+    name: main-service-v2
+    type: application
+    urls:
+    - main-service-v2-0.1.0.tgz
+    version: 0.1.0
   sort-data:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T03:07:54.943926648-04:00"
+    created: "2023-05-31T06:39:20.770044224-04:00"
     description: A Helm chart for Kubernetes
     digest: 5eea7c9c4fefc41d65bfaad783b2e0f2ce1fb930983788c961aa71cd78816efc
     name: sort-data
@@ -58,7 +69,7 @@ entries:
   validate-json-input:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-31T03:07:54.944444588-04:00"
+    created: "2023-05-31T06:39:20.770453092-04:00"
     description: A Helm chart for Kubernetes
     digest: f7dcf2757debec2efdfb7a2e3a1c1d88feabae54be96ebd5b669d411365b8a58
     name: validate-json-input
@@ -66,4 +77,4 @@ entries:
     urls:
     - validate-json-input-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-31T03:07:54.940238977-04:00"
+generated: "2023-05-31T06:39:20.764357583-04:00"
